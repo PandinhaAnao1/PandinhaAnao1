@@ -1,16 +1,17 @@
-### Hi there 👋
+# **About**
+#### Hello i'am Altenir Modesto Gomes! 
 
-<!--
-**PandinhaAnao1/PandinhaAnao1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ 📚 Analysis and System Development.
++ :seedling: Learnig node.
 
-Here are some ideas to get you started:
+# **Git Stats**
+<div>
+  <a href="https://github.com/PandinhaAnao1/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PandinhaAnao1&theme=nightowl&rank_icon=github"/>
+  </a>
+  <a href="https://github.com/PandinhaAnao1/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandinhaAnao1&layout=donut&theme=nightowl"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
