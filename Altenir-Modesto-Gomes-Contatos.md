@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil no GitHub! Eu sou [Seu Nome], um desenvolvedor apaixonad
 - 👨‍💻 Desenvolvedor de Software
 - 🌍 Localização: [Sua Cidade, Seu País]
 - 📧 E-mail: [seu.email@email.com]
-- 💼 LinkedIn: [(https://www.linkedin.com/in/altenir-gomes-844657285/)]
+- 💼 LinkedIn: https://www.linkedin.com/in/altenir-gomes-844657285/
 
 ## Projetos
 
