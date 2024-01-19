@@ -4,12 +4,12 @@ Bem-vindo ao meu perfil no GitHub! Eu sou Altenir Modesto gomes, gostaria de con
 
 Quando completei 18 anos, conheci a ligugem python e progamação de forma mais aprofundada por meio do conteúdo oferecido pelo <a href="https://panda.ime.usp.br/panda/static/pensepy/index.html">ime</a> onde eu estudei não só sobre o python mas tambem sobre ciencia da computação entre outros conehcimentos que me ajudaram nessa jornada de aprendizado.
 
-No ano seguinte com 19 anos ingresei na <a href="https://portal.ifro.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia de Rondônia</a> esse ano foi dedicado a principalmente realizar construção de uma base mais solida nos principais conceitos de progamação entre eles estão bases de dados, redes de computadores, .
+No ano seguinte com 19 anos ingresei na <a href="https://portal.ifro.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia de Rondônia</a> esse ano foi dedicado a principalmente realizar construção de uma base mais solida nos principais conceitos de progamação entre eles estão bases de dados, redes de computadores, orientação a objetos entre outros conceitos basicos de computação.
 
-Minha paixão pela programação é o motor que impulsiona minha jornada profissional. Almejo não apenas construir projetos de sucesso, mas também contribuir para o avanço e desenvolvimento da tecnologia. Estou comprometido com uma carreira sólida e gratificante nesta área dinâmica e em constante evolução." "Iniciei minha jornada aos 17 anos, no passado, com um curso de lógica de programação utilizando o VisualG. Atualmente, aos 20 anos, já acumulei experiência significativa e ampliei meu conhecimento em programação.
+Minha paixão pela programação é o motor que impulsiona minha jornada profissional. Almejo não apenas construir projetos de sucesso, mas também contribuir para o avanço e desenvolvimento da tecnologia. Estou comprometido com uma carreira sólida e gratificante nesta área dinâmica e em constante evolução.
 
+Atuamente estou trabalhando em um projeto com a meta de construir uma aplicação mobile em flutter.
 
-Minha paixão pela programação é o motor que impulsiona minha jornada profissional. Almejo não apenas construir projetos de sucesso, mas também contribuir para o avanço e desenvolvimento da tecnologia. Estou comprometido com uma carreira sólida e gratificante nesta área dinâmica e em constante evolução."
 </p>
 
 #### Main Stack:
@@ -55,8 +55,7 @@ Minha paixão pela programação é o motor que impulsiona minha jornada profiss
 
 Aqui estão alguns dos meus projetos interessantes:
 
-- [Nome do Projeto 1](link para o projeto 1)
-- [Nome do Projeto 2](link para o projeto 2)
+- 
 
 
 Fique à vontade para explorar meus repositórios e entrar em contato!
