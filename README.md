@@ -51,8 +51,43 @@
 
 ## Contacts:
 
-<a href="https://github.com/PandinhaAnao1/PandinhaAnao1/blob/main/Altenir-Modesto-Gomes-Contatos.md">Link para o Arquivo</a>
- 
+  # Sobre min
+
+Bem-vindo ao meu perfil no GitHub! Eu sou Altenir Modesto gomes
+aos 17 anos inicie minha jornada na progamação com um curso de lógica de 
+utilizando o VisualG foi meu priemiro contato com esse mundo incrivel de 
+computação naquele momento ficou claro que ser progamador era algo que eu 
+queria.
+
+Aos 18 anos, tive meu primeiro contato com Python e progamação de forma mais aprofundada  
+por meio do conteúdo oferecido pela USP , explorando o vasto universo dessa linguagem dinâmica e versátil. Agora, estou imerso em um emocionante projeto de desenvolvimento mobile voltado para uma cidade de pequeno porte. Concentro-me no aprendizado e aplicação prática do framework Flutter, consolidando meu conhecimento e habilidades para criar soluções inovadoras e impactantes.
+
+Minha paixão pela programação é o motor que impulsiona minha jornada profissional. Almejo não apenas construir projetos de sucesso, mas também contribuir para o avanço e desenvolvimento da tecnologia. Estou comprometido com uma carreira sólida e gratificante nesta área dinâmica e em constante evolução."
+"Iniciei minha jornada aos 17 anos, no passado, com um curso de lógica de programação utilizando o VisualG. Atualmente, aos 20 anos, já acumulei experiência significativa e ampliei meu conhecimento em programação.
+
+Aos 19 anos, tive meu primeiro contato com Python por meio do conteúdo valioso oferecido pela USP, explorando o vasto universo dessa linguagem dinâmica e versátil. Agora, estou imerso em um emocionante projeto de desenvolvimento mobile voltado para uma cidade de pequeno porte. Concentro-me no aprendizado e aplicação prática do framework Flutter, consolidando meu conhecimento e habilidades para criar soluções inovadoras e impactantes.
+
+Minha paixão pela programação é o motor que impulsiona minha jornada profissional. Almejo não apenas construir projetos de sucesso, mas também contribuir para o avanço e desenvolvimento da tecnologia. Estou comprometido com uma carreira sólida e gratificante nesta área dinâmica e em constante evolução."
+.
+
+## Sobre Mim
+
+- 👨‍💻 Desenvolvedor de Software
+- 🌍 Localização: Vilhena-RO
+- 📧 E-mail: PandinhaAnao12@proton.me
+- 💼 LinkedIn: https://www.linkedin.com/in/altenir-gomes-844657285/
+
+## Projetos
+
+Aqui estão alguns dos meus projetos interessantes:
+
+- [Nome do Projeto 1](link para o projeto 1)
+- [Nome do Projeto 2](link para o projeto 2)
+
+
+Fique à vontade para explorar meus repositórios e entrar em contato!
+
+
 
   
   
