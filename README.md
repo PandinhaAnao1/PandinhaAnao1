@@ -1,4 +1,5 @@
 # Sobre min
+<p style="text-align: justify;">
 Bem-vindo ao meu perfil no GitHub! Eu sou Altenir Modesto gomes
 aos 17 anos inicie minha jornada na progamação com um curso de lógica de 
 utilizando o VisualG foi meu priemiro contato com esse mundo incrivel de 
@@ -14,6 +15,7 @@ Minha paixão pela programação é o motor que impulsiona minha jornada profiss
 Aos 19 anos, tive meu primeiro contato com Python por meio do conteúdo valioso oferecido pela USP, explorando o vasto universo dessa linguagem dinâmica e versátil. Agora, estou imerso em um emocionante projeto de desenvolvimento mobile voltado para uma cidade de pequeno porte. Concentro-me no aprendizado e aplicação prática do framework Flutter, consolidando meu conhecimento e habilidades para criar soluções inovadoras e impactantes.
 
 Minha paixão pela programação é o motor que impulsiona minha jornada profissional. Almejo não apenas construir projetos de sucesso, mas também contribuir para o avanço e desenvolvimento da tecnologia. Estou comprometido com uma carreira sólida e gratificante nesta área dinâmica e em constante evolução."
+</p>
 
 ## My Skills
 
