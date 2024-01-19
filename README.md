@@ -46,8 +46,7 @@ Atuamente estou trabalhando em um projeto com a meta de construir uma aplicaçã
 &nbsp;
 
 ## Contacts:
-- 👨‍💻 Desenvolvedor de Software
-- 🌍 Localização: Vilhena-RO
+
 - 📧 E-mail: PandinhaAnao12@proton.me
 - 💼 LinkedIn: https://www.linkedin.com/in/altenir-gomes-844657285/
 
