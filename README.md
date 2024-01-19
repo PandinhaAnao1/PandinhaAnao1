@@ -1,10 +1,10 @@
 # Sobre min
 <p style="text-align: justify;">    
-Bem-vindo ao meu perfil no GitHub! Eu sou Altenir Modesto gomes aos 17 anos inicie minha jornada na progamação com um curso de lógica de utilizando o VisualG foi meu priemiro contato com esse mundo incrivel de computação naquele momento ficou claro que ser progamador era algo que eu queria.
+Bem-vindo ao meu perfil no GitHub! Eu sou Altenir Modesto gomes, gostaria de contar mais um pouco sobre min e minha jornada de aprendizado aos 17 anos inicie minha jornada na progamação com um curso de lógica de utilizando o VisualG foi meu priemiro contato com esse mundo incrivel de computação naquele momento ficou claro que ser progamador era agora um dos meu objetivos para o futuro.
 
-Aos 18 anos, tive meu primeiro contato com Python e progamação de forma mais aprofundada por meio do conteúdo oferecido pelo <a href="https://panda.ime.usp.br/panda/static/pensepy/index.html">ime</a> onde eu estudei não só sobre python mais tambe sobre ciencia da computação.
+Quando completei 18 anos, conheci a ligugem python e progamação de forma mais aprofundada por meio do conteúdo oferecido pelo <a href="https://panda.ime.usp.br/panda/static/pensepy/index.html">ime</a> onde eu estudei não só sobre o python mas tambem sobre ciencia da computação entre outros conehcimentos que me ajudaram nessa jornada de aprendizado.
 
-Aos 19 anos ingresei na <a href="https://portal.ifro.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia de Rondônia</a>.
+No ano seguinte com 19 anos ingresei na <a href="https://portal.ifro.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia de Rondônia</a> esse ano foi dedicado a principalmente realizar construção de uma base mais solida nos principais conceitos de progamação entre eles estão bases de dados, redes de computadores, .
 
 Minha paixão pela programação é o motor que impulsiona minha jornada profissional. Almejo não apenas construir projetos de sucesso, mas também contribuir para o avanço e desenvolvimento da tecnologia. Estou comprometido com uma carreira sólida e gratificante nesta área dinâmica e em constante evolução." "Iniciei minha jornada aos 17 anos, no passado, com um curso de lógica de programação utilizando o VisualG. Atualmente, aos 20 anos, já acumulei experiência significativa e ampliei meu conhecimento em programação.
 
