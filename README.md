@@ -1,14 +1,14 @@
 # Sobre min
 <p style="text-align: justify;">    
-Bem-vindo ao meu perfil no GitHub! Eu sou Altenir Modesto gomes, gostaria de contar mais um pouco sobre min e minha jornada de aprendizado aos 17 anos inicie minha jornada na progamação com um curso de lógica de utilizando o VisualG foi meu priemiro contato com esse mundo incrivel de computação naquele momento ficou claro que ser progamador era agora um dos meu objetivos para o futuro.
+Bem-vindo ao meu perfil no GitHub! Eu sou Altenir Modesto Gomes e gostaria de compartilhar um pouco mais sobre mim e minha jornada de aprendizado. Aos 17 anos, iniciei meu caminho na programação com um curso de lógica utilizando o VisualG. Foi o meu primeiro contato com esse mundo incrível da computação, e naquele momento ficou claro que ser programador era agora um dos meus objetivos para o futuro.
 
-Quando completei 18 anos, conheci a ligugem python e progamação de forma mais aprofundada por meio do conteúdo oferecido pelo <a href="https://panda.ime.usp.br/panda/static/pensepy/index.html">ime</a> onde eu estudei não só sobre o python mas tambem sobre ciencia da computação entre outros conehcimentos que me ajudaram nessa jornada de aprendizado.
+Ao completar 18 anos, conheci a linguagem Python e a programação de forma mais aprofundada por meio do conteúdo oferecido pelo <a href="https://panda.ime.usp.br/panda/static/pensepy/index.html">IME</a>, onde estudei não apenas Python, mas também ciência da computação, entre outros conhecimentos que me ajudaram nessa jornada de aprendizado.
 
-No ano seguinte com 19 anos ingresei na <a href="https://portal.ifro.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia de Rondônia</a> esse ano foi dedicado a principalmente realizar construção de uma base mais solida nos principais conceitos de progamação entre eles estão bases de dados, redes de computadores, orientação a objetos entre outros conceitos basicos de computação.
+No ano seguinte, aos 19 anos, ingressei no  <a href="https://portal.ifro.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia de Rondônia</a>. Esse ano foi dedicado principalmente à construção de uma base mais sólida nos principais conceitos de programação, incluindo bases de dados, redes de computadores, orientação a objetos, entre outros conceitos básicos de computação.
 
 Minha paixão pela programação é o motor que impulsiona minha jornada profissional. Almejo não apenas construir projetos de sucesso, mas também contribuir para o avanço e desenvolvimento da tecnologia. Estou comprometido com uma carreira sólida e gratificante nesta área dinâmica e em constante evolução.
 
-Atuamente estou trabalhando em um projeto com a meta de construir uma aplicação mobile em flutter para a cidade de cerjeiras-Ro.
+Atualmente, estou trabalhando em um projeto com o objetivo de construir uma aplicação mobile em Flutter para a cidade de Cerejeiras, RO.
 
 </p>
 
@@ -49,12 +49,6 @@ Atuamente estou trabalhando em um projeto com a meta de construir uma aplicaçã
 
 - 📧 E-mail: PandinhaAnao12@proton.me
 - 💼 LinkedIn: https://www.linkedin.com/in/altenir-gomes-844657285/
-
-## Projetos
-
-Aqui estão alguns dos meus projetos interessantes:
-
-- 
 
 
 Fique à vontade para explorar meus repositórios e entrar em contato!
