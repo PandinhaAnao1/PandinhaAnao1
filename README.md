@@ -8,7 +8,7 @@ No ano seguinte com 19 anos ingresei na <a href="https://portal.ifro.edu.br/">In
 
 Minha paixão pela programação é o motor que impulsiona minha jornada profissional. Almejo não apenas construir projetos de sucesso, mas também contribuir para o avanço e desenvolvimento da tecnologia. Estou comprometido com uma carreira sólida e gratificante nesta área dinâmica e em constante evolução.
 
-Atuamente estou trabalhando em um projeto com a meta de construir uma aplicação mobile em flutter.
+Atuamente estou trabalhando em um projeto com a meta de construir uma aplicação mobile em flutter para a cidade de cerjeiras-Ro.
 
 </p>
 
